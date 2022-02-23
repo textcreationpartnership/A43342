@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Royal directions both to Whigs and Tories in a famous speech of King Henry the VIII in the Parliament House, Decemb. 24. in the 37th year of his reign, Anno Dom. 1545 : tending to charity and concord, and therefore necessary for these times.</title>
+            <title>Speech of King Henry the Eighth, made in the Parliament House the 24 of December in the 37 yeare of His Majesties reigne, Anno Dom. 1545</title>
+            <author>England and Wales. Sovereign (1509-1547 : Henry VIII)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43342</idno>
+            <idno type="STC">Wing H1472</idno>
+            <idno type="STC">ESTC R8858</idno>
+            <idno type="EEBO-CITATION">12274208</idno>
+            <idno type="OCLC">ocm 12274208</idno>
+            <idno type="VID">58400</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43342)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58400)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 187:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Royal directions both to Whigs and Tories in a famous speech of King Henry the VIII in the Parliament House, Decemb. 24. in the 37th year of his reign, Anno Dom. 1545 : tending to charity and concord, and therefore necessary for these times.</title>
+                  <title>Speech of King Henry the Eighth, made in the Parliament House the 24 of December in the 37 yeare of His Majesties reigne, Anno Dom. 1545</title>
+                  <author>England and Wales. Sovereign (1509-1547 : Henry VIII)</author>
+                  <author>Henry VIII, King of England, 1491-1547.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Larkin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[166-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Imperfect: partially illegible.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1509-1547 --  Sources.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb facs="tcp:58400:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 22 -->
+            <head>ROYAL DIRECTIONS BOTH TO WHIGS and TORIES: In a famous Speech of King <hi>Henry</hi> the VIII. In the Parliament Houſe <date>
+                  <hi>Decemb.</hi> 24. in the 37th year of his Reign, <hi>Anno Dom.</hi> 1545.</date>
+            </head>
+            <head type="sub">Tending to Charity and Concord, and therefore Neceſſary for theſe Times.</head>
+            <p>ALthough my Chauncellor for the time being, hath before this time uſed very eloquently and ſubſtantially to make anſwer to ſuch Orations as have been ſet forth in this high Court of Parliament, yet is he not ſo able to open and ſet forth my mind and meaning, and the ſecrets of my heart in ſo plain and ample manner as I my ſelf am and can do.</p>
+            <p>Wherefore I taking upon me to anſwer your eloquent Oration, Mr. Speaker, ſay, That where you in the name of our welbeloved Commons, have both praiſed and extolled me for the notable qualities that you have conceived to be in me, I moſt heartily thank you all that you have put me in remembrance of my duty, which is to endeavour my ſelf to obtain and get ſuch excellent qualities, and neceſſary vertues as a Prince or Governour ſhould or ought to have, of which gifts I recog<g ref="char:EOLhyphen"/>nize my ſelf both bare and barren, but of ſuch ſmall qualities as God hath endow<g ref="char:EOLhyphen"/>ed mee withall, I render to his Goodneſs my moſt humble thanks, intending with all my wit and diligence to get and acquire to me ſuch Noble Vertues and Prince<g ref="char:EOLhyphen"/>ly Qualities as you have alledged to be incorporate in my perſon.</p>
+            <p>Theſe thanks for your loving admonition and good counſel firſt remembred, I eftſoones thank you again, becauſe that you conſidering Our great charges (not for Our pleaſure, but for your defence, not for Our gain, but to our great coſt) which We have lately ſuſtained, as well in defence of Our and your enemies, as for the conqueſt of that fortreſs which was to this Realm moſt diſpleaſant and noyſome, and ſhall be by Gods grace hereafter to our Nation moſt profitable and pleaſant, have freely of your own minds granted to Us a certain Subſidy here in an Act ſpecified, which verily we take in good part, regarding more your kind<g ref="char:EOLhyphen"/>neſs then the profit thereof, as he that ſetteth more by your loving hearts, then by your ſubſtance.</p>
+            <p>Beſides this hearty kindneſs, I cannot a little rejoice when I conſider the perfect truſt and ſure confidence which you have put in Me, as men having undoubted hope, and unfained belief in my good doings, and juſt proceedings for you, with<g ref="char:EOLhyphen"/>out any deſire or requeſt, have committed to mine order and diſpoſition all Chaun<g ref="char:EOLhyphen"/>treys, Colledges, Hoſpitals, and other places ſpecified in a certain Act, firmly truſt<g ref="char:EOLhyphen"/>ing that I will order them to the glory of God, and the profit of the Common-wealth.</p>
+            <p>Surely if I contrary to your expectation, ſhould ſuffer the Miniſters of the Church to decay, or Learning (which is ſo great a jewel) to be miniſhed, or poor and miſe<g ref="char:EOLhyphen"/>rable people to be unrelieved, you might ſay that I being put in ſo ſpecial a truſt as I am in this caſe, were no truſty friend to you, nor charitable man to any poor Chriſtian, neither a lover of the Publick-wealth, nor yet one that feared God, to whom account muſt be rendred of all our doings. Doubt not I pray you, but your expectation ſhall be ſerved more godly and goodly then you will wiſh or deſire, as hereafter you ſhall plainly perceive.</p>
+            <p>Now ſince I find ſuch kindneſs on your part toward me, I cannot chuſe but love and favour you, affirming that no Prince in the world more favoureth his ſubjects then I do you, nor no ſubjects or Commons more love and obey their So<g ref="char:EOLhyphen"/>veraign Lord then I perceive you do me, for whoſe defence my treaſure ſhall not be hidden, nor if neceſſity require my perſon ſhall not be unadventured: yet al<g ref="char:EOLhyphen"/>though I with you, and you with me, be in this perfect love and concord, this
+<pb facs="tcp:58400:2"/>
+               <!-- PDF PAGE 23 -->
+friendly amity cannot continue, except you my Lords Temporal, and you my Lords Spiritual, and you my loving Subjects, ſtudy and take pains to amend one thing which ſurely is amiſs, and far out of order, to the which I moſt heartily require you, which is, That Charity and Concord is not amongſt you, but Diſcord and Diſſention beareth rule in every place.</p>
+            <p>Saint <hi>Paul</hi> ſaith in the Corinthians, and in the 13 Chapter, Charity is gentle, Charity is not envious, Charity is not proud, and ſo forth in the ſaid Chapter: Behold then what charity and love is amongſt you, when one calleth the other Heretick and Anabaptiſt, and he calleth him again Papiſt, Hypocrite and Phari<g ref="char:EOLhyphen"/>ſee! Be theſe tokens of charity amongſt you? Are theſe ſigns of fraternal love be<g ref="char:EOLhyphen"/>tween you? No, no, I aſſure you that this lack of charity among your ſelves, will be the hindrance and aſwaging of the ſervent love between us, as I ſaid before, ex<g ref="char:EOLhyphen"/>cept this wound be ſalved and clearly made whole.</p>
+            <p>I muſt needs judg the fault and occaſion of this diſcord to be partly by negli<g ref="char:EOLhyphen"/>gence of you the Fathers and Preachers of the Spirituality, for if I know a man which liveth in adultery, I muſt judge him a lecherous and carnal perſon; if I ſee a man boaſt and brag himſelf, I cannot but deem him a proud man. I ſee here dai<g ref="char:EOLhyphen"/>ly that you of the Clergy preach one againſt another, teach one contrary to ano<g ref="char:EOLhyphen"/>another, inveigh one againſt another, without charity or diſcretion. Some be ſo ſtiff in their old <hi>Mumpſimus,</hi> others be ſo buſie and envious in their new <hi>Sump<g ref="char:EOLhyphen"/>ſimus.</hi> Thus all men almoſt be in variety and diſcord, and few or none preach truly and ſincerely the word of God, according as they ought to do.</p>
+            <p>Shall I judge you charitable perſons doing thus? No, no, I cannot do ſo; alas how can the poor ſouls live in concord, when you Preachers ſow amongſt them in your Sermons debate and diſcord? Of you they look for light, and you bring them to darkneſs. Amend theſe crimes I exhort you, and ſet forth Gods word both by true preaching and good example giving, or elſe I whom God hath ap<g ref="char:EOLhyphen"/>pointed his Vicar and high Miniſter here, will ſee theſe diviſions extinct, and theſe enormities corrected according to my very duty, or elſe I am an unprofi<g ref="char:EOLhyphen"/>table Servant, and an untrue Officer.</p>
+            <p>Although I ſay the Spiritual men be in ſome fault, that charity is not kept a<g ref="char:EOLhyphen"/>mongſt you, yet you of the Temporality be not clean and unſpotted of malice and envy, for you rail on Biſhops, ſpeak ſlanderouſly of Prieſts, and rebuke and taunt Preachers, both contrary to good order, and Chriſtian fraternity: If you know ſurely that a Biſhop or Preacher erreth, or teacheth perverſe doctrine, come and declare it to ſome of our Council, or to us, to whom is committed by God the high authority to reform and order ſuch cauſes and behaviours, and be not judges your ſelves of your own Phantaſtical Opinions, and vain Expoſitions, for in ſuch high cauſes ye may lightly err.</p>
+            <p>And although you be permitted to read holy Scripture, and to have the word of God in Your mother tongue, you muſt underſtand that it is licenſed you ſo to do, only to enform your own conſcience, and to inſtruct your children and family, and not to diſpute and make Scripture a railing and taunting ſtock againſt Prieſts and Preachers (as many light perſons do) I am very ſorry to know and hear how unreverently that moſt precious jewel the word of God is diſputed, rimed, ſung and jangled in every Alehouſe and Tavern, contrary to the true meaning and Doctrine of the ſame.</p>
+            <p>And yet I am even as much ſorry that the Readers of the ſame follow it in doing ſo faintly and coldly; for of this I am ſure, that charity was never ſo faint amongſt you, and vertuous and godly living was never leſs uſed, nor God himſelf amongſt Chriſtians never leſs reveren<g ref="char:EOLhyphen"/>ced, honoured and ſerved. Therefore I ſaid before, be in charity one with another, like bro<g ref="char:EOLhyphen"/>ther and brother; love, dread and fear God, (to the which I, as your ſupream head and Soveraign Lord exhort and require you) and then I doubt not but that love and league that I ſpake of in the beginning ſhall never be diſſolved or broken between us.</p>
+            <p>And to the making of Laws which be now made and concluded, I exhort you the makers to be as diligent in putting them in execution, as you were in making and furthering the ſame, or elſe your labour ſhall be in vain, and your Common-wealth nothing relieved. Now to your Petition concerning our Royal Aſſent to be given to ſuch Acts as have paſſed both Houſes, They ſhall be read openly, that ye may hear them.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>George Larkin</hi> in <hi>Scalding-Alley</hi> in the <hi>Poultry.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
